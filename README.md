@@ -17,3 +17,4 @@ To get started with the Python Guessing Game Challenge, follow these steps:
 ```bash
 git clone https://github.com/amen-zelealem/Python-Guessing-Game-Challenge.git
 cd Python-Guessing-Game-Challenge
+run python guessing_game.py
